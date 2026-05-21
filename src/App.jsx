@@ -1,5 +1,5 @@
 import { lazy, Suspense } from 'react'
-import Navbar from './MyNavbar'
+import Navbar from "./MyNavbar";
 import Hero from './Hero'
 import About from './About'
 import Skills from './Skills'
